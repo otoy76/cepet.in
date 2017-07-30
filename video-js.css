@@ -548,7 +548,7 @@ body.vjs-full-window {
   right: 0;
   height: 3.0em;
   background-color: #2B333F;
-  background-color: rgb(43, 51, 63); }
+  background-color: none; }
 
 .vjs-has-started .vjs-control-bar {
   display: -webkit-box;
